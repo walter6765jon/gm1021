@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.yahoo.com/entertainment/kanye-west-says-wants-run-055202783.html");
+header("Location: https://uk.norton.com/norton-security-antivirus?inid=nortoncom_nav_norton-security-antivirus_products-services:overview");
 die();
 ?>
