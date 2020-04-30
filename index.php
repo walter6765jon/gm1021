@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.mcafee.com/en-us/antivirus.html");
+header("Location: https://www.cleanearthcleaners.com/services");
 die();
 ?>
