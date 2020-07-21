@@ -1,4 +1,4 @@
 <?php
-header("Location: https://google.com");
+header("Location: https://fruitguys.com/about-us/goodworks/");
 die();
 ?>
